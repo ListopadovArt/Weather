@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Artem Listopadov on 6/17/21.
+  Copyright © 2021 Artem Listopadov. All rights reserved.
+*/
+
+"Enter the name of the city"= "Enter the name of the city";
+"Enter the city" = "Enter the city";
+"lang=en" = "lang=en";
